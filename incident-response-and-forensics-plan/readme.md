@@ -102,7 +102,9 @@ Every incident report should include:
 | Lessons learned and recommendations | Gaps discovered, improvements needed and steps to strengthen future incident response. |
 
 ---
-
+## Applying the plan: sample incident report
+To show the plan in practice, I wrote a fictional incident report for the SecureSync scenario, following the four-component structure from Part 2: [sample-incident-report.md](https://github.com/Alielkhidir/SOC-Labs/blob/main/incident-response-and-forensics-plan/sample-incident-report.md)
+---
 ## What I learned
 - How the NIST incident response lifecycle turns an ad-hoc reaction into a repeatable process
 - Why documentation, chain of custody and hash verification matter if evidence must stand up later
