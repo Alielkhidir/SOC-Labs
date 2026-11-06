@@ -22,7 +22,7 @@ Created a local user account (`PinkPanther`) with a strong password in Computer 
 ![New user](cybersecurity-windows-linux-admin-labs/Screenshots/1.PNG)
 *The new `PinkPanther` account listed under Local Users and Groups > Users.*
 
-![Accounting group](cybersecurity-windows-linux-admin-labs/Screenshots/2.PNG)
+![Accounting group](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/2.PNG)
 *The new `Accounting` group listed under Local Users and Groups > Groups.*
 
 ### Ticket 2: Virus & threat protection
