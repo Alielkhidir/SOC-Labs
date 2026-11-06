@@ -104,7 +104,9 @@ Every incident report should include:
 ---
 
 ## Applying the plan: sample incident report
-To show the plan in practice, I wrote a fictional incident report for the SecureSync scenario, following the four-component structure from Part 2: [sample-incident-report.md](https://github.com/Alielkhidir/SOC-Labs/blob/main/incident-response-and-forensics-plan/sample-incident-report.md)
+To show the plan in practice, I wrote a fictional incident report for the SecureSync scenario, following the four-component structure from Part 2.
+
+[![Sample Incident Report](https://img.shields.io/badge/Sample%20Incident%20Report-Click%20to%20view-blue?style=for-the-badge)](https://github.com/Alielkhidir/SOC-Labs/blob/main/incident-response-and-forensics-plan/sample-incident-report.md)
 
 ---
 ## What I learned
