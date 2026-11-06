@@ -74,4 +74,4 @@ Ran `sudo apt update` and `sudo apt upgrade`, then reviewed recent package activ
 - Why up-to-date endpoint protection and a scoped firewall rule matter
 - How to verify changes (via `/etc/passwd`, `ls -l`, and update logs) instead of assuming they worked
 
-*Lab provided by IBM via Coursera. This README describes my own work and results.*
+*Lab provided by IBM. This page describes my own work and results.*
