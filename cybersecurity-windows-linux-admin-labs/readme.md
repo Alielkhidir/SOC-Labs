@@ -39,7 +39,7 @@ In Windows Defender Firewall with Advanced Security, I created an inbound rule n
 <br><br><br>
 *"Port 80 Permitted" at the top of the Inbound Rules list: enabled, profile All, action Allow.*
 ![Firewall rule](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/5.PNG)
-<br><br>
+<br><br><br><br>
 
 ---
 
