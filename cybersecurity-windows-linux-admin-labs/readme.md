@@ -18,7 +18,7 @@ Windows Server (Computer Management, Windows Security, Windows Defender Firewall
 
 ### Ticket 1: Create a user and a group
 Created a local user account (`PinkPanther`) with a strong password in Computer Management, then created a group named `Accounting`.
-<br><br>
+<br><br><br><br><br>
 *The new `PinkPanther` account listed under Local Users and Groups > Users.*
 ![New user](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/1.PNG)
 
