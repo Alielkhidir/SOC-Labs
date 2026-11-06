@@ -72,6 +72,7 @@ Created an outbound rule named **FTP block** that blocks FTP traffic.
 ### 4.5 Block HTTP
 <br><br><br>
 *Outbound rule blocking TCP port 80.*
+<br>
 ![HTTP rule](https://github.com/Alielkhidir/SOC-Labs/blob/main/network-design-and-firewall-security-lab/screenshots/8.PNG)
 <br><br>
 
