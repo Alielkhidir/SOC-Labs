@@ -21,26 +21,25 @@ Created a local user account (`PinkPanther`) with a strong password in Computer 
 <br><br><br><br><br>
 *The new `PinkPanther` account listed under Local Users and Groups > Users.*
 ![New user](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/1.PNG)
-
 <br><br>
-
-![Accounting group](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/2.PNG)
 *The new `Accounting` group listed under Local Users and Groups > Groups.*
-
+![Accounting group](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/2.PNG)
+<br><br>
 ### Ticket 2: Virus & threat protection
 Checked for updates in Windows Update / Windows Security, then ran a Quick Scan to confirm the system was protected.
-
-![Update check](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/3.PNG)
+<br><br><br><br><br>
 *Windows Update showing pending updates (including the Malicious Software Removal Tool) and the time of the last check.*
-
-![Quick scan](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/4.PNG)
+![Update check](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/3.PNG)
+<br><br>
 *Quick Scan completed on 8/7/2025: 0 threats found, 27,264 files scanned.*
-
+![Quick scan](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/4.PNG)
+<br><br>
 ### Ticket 3: Firewall rule
 In Windows Defender Firewall with Advanced Security, I created an inbound rule named **Port 80 Permitted** that allows TCP port 80 on the Domain, Private and Public profiles.
-
-![Firewall rule](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/5.PNG)
+<br><br><br><br><br>
 *"Port 80 Permitted" at the top of the Inbound Rules list: enabled, profile All, action Allow.*
+![Firewall rule](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/5.PNG)
+<br><br>
 
 ---
 
