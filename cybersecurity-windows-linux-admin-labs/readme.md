@@ -18,7 +18,7 @@ Windows Server (Computer Management, Windows Security, Windows Defender Firewall
 
 ### Ticket 1: Create a user and a group
 Created a local user account (`PinkPanther`) with a strong password in Computer Management, then created a group named `Accounting`.
-<br><br><br><br><br>
+<br><br><br><br>
 *The new `PinkPanther` account listed under Local Users and Groups > Users.*
 ![New user](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/1.PNG)
 <br><br>
@@ -27,7 +27,7 @@ Created a local user account (`PinkPanther`) with a strong password in Computer 
 <br><br>
 ### Ticket 2: Virus & threat protection
 Checked for updates in Windows Update / Windows Security, then ran a Quick Scan to confirm the system was protected.
-<br><br><br><br><br>
+<br><br><br><br>
 *Windows Update showing pending updates (including the Malicious Software Removal Tool) and the time of the last check.*
 ![Update check](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/3.PNG)
 <br><br>
@@ -36,7 +36,7 @@ Checked for updates in Windows Update / Windows Security, then ran a Quick Scan 
 <br><br>
 ### Ticket 3: Firewall rule
 In Windows Defender Firewall with Advanced Security, I created an inbound rule named **Port 80 Permitted** that allows TCP port 80 on the Domain, Private and Public profiles.
-<br><br><br><br><br>
+<br><br><br><br>
 *"Port 80 Permitted" at the top of the Inbound Rules list: enabled, profile All, action Allow.*
 ![Firewall rule](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/5.PNG)
 <br><br>
@@ -47,24 +47,25 @@ In Windows Defender Firewall with Advanced Security, I created an inbound rule n
 
 ### Ticket 4: Create a user
 Used `sudo adduser` to create a user, then verified it with `cat /etc/passwd | grep pinkpanther`.
-
-![Linux user](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/6.PNG)
+<br><br><br><br>
 *The account already existed from earlier in the session (hence the "already exists" message); the `/etc/passwd` entry confirms UID 1001, its home directory and its `/bin/bash` shell.*
-
+![Linux user](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/6.PNG)
+<br><br>
 ### Ticket 5: Files and folders
 Created the `accounting` and `payroll` directories with `mkdir`, then created a `best practices` file inside `accounting` with `touch`.
-
-![Folders](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/7.PNG)
+<br><br><br><br>
 *`mkdir accounting payroll` followed by `ls -l` confirming both folders.*
-
-![File](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/8.PNG)
+![Folders](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/7.PNG)
+<br><br>
 *`ls -l accounting` showing the new `best practices` file.*
-
+![File](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/8.PNG)
+<br><br>
 ### Ticket 6: System updates
 Ran `sudo apt update` and `sudo apt upgrade`, then reviewed recent package activity with `less /var/log/dpkg.log`.
-
-![Update log](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/9.PNG)
+<br><br><br><br>
 *The dpkg log showing packages being installed, unpacked and configured (e.g. `base-passwd`, `base-files`, `dpkg`).*
+![Update log](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/9.PNG)
+
 
 ---
 
