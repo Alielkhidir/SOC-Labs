@@ -23,7 +23,6 @@ Designed a network with one router, one switch and three subnets (Administration
 <br><br>
 ## Task 2: Subnet addresses and masks
 Each department was given a /26 block (64 addresses, 62 usable hosts).
-<br><br><br>
 
 | Subnet | Network address | Mask | Usable host range | Broadcast |
 |---|---|---|---|---|
@@ -31,6 +30,7 @@ Each department was given a /26 block (64 addresses, 62 usable hosts).
 | Sales | 198.51.100.64/26 | 255.255.255.192 | .65 – .126 | 198.51.100.127 |
 | IT | 198.51.100.128/26 | 255.255.255.192 | .129 – .190 | 198.51.100.191 |
 
+<br><br><br>
 *Subnet plan generated for later reference.*
 ![Subnet table](https://github.com/Alielkhidir/SOC-Labs/blob/main/network-design-and-firewall-security-lab/screenshots/2.PNG)
 <br><br>
