@@ -1,7 +1,7 @@
 
 # Network Design & Firewall Security Lab
 
-Final project from an IBM networking and security course (Coursera). I planned a network for a fictional company, "TechSafe, Ltd.", then analyzed web traffic and enforced security policy with host firewall rules.
+A project from IBM networking and security course. I planned a network for a fictional company, "TechSafe, Ltd.", then analyzed web traffic and enforced security policy with host firewall rules.
 
 ## Skills demonstrated
 - Network design with VLAN-based subnets (router, switch, three departments)
@@ -89,4 +89,4 @@ Created an outbound rule named **FTP block** that blocks FTP traffic.
 - How to read encrypted traffic metadata in Wireshark with display filters
 - How to enforce and verify security policy with firewall rules (test before, apply, test after)
 
-*Lab provided by IBM via Coursera. This README describes my own work and results.*
+*Lab provided by IBM. This page describes my own work and results.*
