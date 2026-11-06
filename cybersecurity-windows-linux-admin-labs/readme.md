@@ -24,7 +24,9 @@ Created a local user account (`PinkPanther`) with a strong password in Computer 
 
 ![Accounting group](https://github.com/Alielkhidir/SOC-Labs/blob/main/cybersecurity-windows-linux-admin-labs/Screenshots/2.PNG)
 *The new `Accounting` group listed under Local Users and Groups > Groups.*
-
+###
+###
+###
 ### Ticket 2: Virus & threat protection
 Checked for updates in Windows Update / Windows Security, then ran a Quick Scan to confirm the system was protected.
 
