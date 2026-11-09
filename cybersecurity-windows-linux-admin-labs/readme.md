@@ -1,4 +1,4 @@
-[← Back to SOC Labs](https://github.com/Alielkhidir/SOC-Labs)
+<a href="https://github.com/Alielkhidir/SOC-Labs"><img src="../badges/back-to-soc-labs.png" alt="Back to SOC Labs" height="30"></a>
 
 # Windows & Linux Admin Labs
 
@@ -11,6 +11,21 @@ Six support tickets across Windows Server and Linux, worked as a junior analyst 
 | **Source** | IBM Cybersecurity Analyst Professional Certificate |
 | **Environment** | Windows Server and an Ubuntu terminal (Skills Network Cloud IDE) |
 | **Tools** | Computer Management, Windows Security, Windows Defender Firewall with Advanced Security, `adduser`, `mkdir`, `touch`, `ls`, `apt`, `less` |
+
+## IBM Badge Earned
+
+<table>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://www.credly.com/badges/33f77f5f-f8e0-4b0c-91f9-5b432c777cb6"><img src="badge/ibm-operating-systems.jpg" alt="IBM badge: Operating Systems: Overview, Administration, and Security" width="130"></a>
+    </td>
+    <td>
+      <b>Operating Systems: Overview, Administration, and Security</b><br>
+      Issued by IBM through Coursera on 7 Aug 2025. This lab was part of the coursework for earning this badge.<br><br>
+      <a href="https://www.credly.com/badges/33f77f5f-f8e0-4b0c-91f9-5b432c777cb6">Verify on Credly →</a>
+    </td>
+  </tr>
+</table>
 
 ## Results at a Glance
 
