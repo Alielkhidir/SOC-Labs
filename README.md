@@ -41,6 +41,3 @@ Each lab has its own folder and README. Everything here uses lab environments or
 | Threat Hunting | Hypothesis-driven hunts through logs | Planned |
 | Phishing Analysis | Investigating suspicious emails | Planned |
 
-## How Each Lab Is Written
-
-New labs follow a single [lab template](Templates/lab-template.md): objective, environment, steps, findings, evidence, MITRE ATT&CK mapping, and lessons learned. That keeps every write-up easy to read and easy to compare.
