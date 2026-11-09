@@ -17,7 +17,7 @@ Six support tickets across Windows Server and Linux, worked as a junior analyst 
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://www.credly.com/badges/33f77f5f-f8e0-4b0c-91f9-5b432c777cb6"><img src="../badges/ibm-operating-systems.jpg" alt="IBM badge: Operating Systems: Overview, Administration, and Security" width="130"></a>
+      <a href="https://www.credly.com/badges/33f77f5f-f8e0-4b0c-91f9-5b432c777cb6"><img src="../badges/ibm-operating-systems.png" alt="IBM badge: Operating Systems: Overview, Administration, and Security" width="130"></a>
     </td>
     <td>
       <b>Operating Systems: Overview, Administration, and Security</b><br>
