@@ -17,7 +17,7 @@ Planned a network for a fictional company, "TechSafe, Ltd.", then analyzed web t
 <table>
   <tr>
     <td width="150" align="center">
-      <a href="https://www.credly.com/badges/366f3efe-ab08-4266-8f07-946e59dec8e8"><img src="../badge/ibm-network-security.png" alt="IBM badge: Network Security & Database Vulnerabilities" width="130"></a>
+      <a href="https://www.credly.com/badges/366f3efe-ab08-4266-8f07-946e59dec8e8"><img src="../badges/ibm-network-security.png" alt="IBM badge: Network Security & Database Vulnerabilities" width="130"></a>
     </td>
     <td>
       <b>Network Security & Database Vulnerabilities</b><br>
