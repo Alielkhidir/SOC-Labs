@@ -1,6 +1,5 @@
 <a href="https://github.com/Alielkhidir/SOC-Labs"><img src="../badges/back-to-soc-labs.png" alt="Back to SOC Labs" height="30"></a>
-
-[← Back to the Incident Response & Digital Forensics Plan](README.md)
+<a href="README.md"><img src="../badges/back-to-ir-plan.png" alt="Back to the Incident Response and Forensics Plan" height="30"></a>
 
 # Sample Incident Report: Spear-Phishing and Email Server Compromise
 
